@@ -1,1 +1,7 @@
 # World_Weather_Analysis
+
+## Overview
+
+  This project took an in depth look into API's and their usefulness.  The client requested that the application that was in development fulfilled a certain number of criteria.  One of which being that the app had to pull a list of destinations and/or hotels for customers to see given the customers preference for their temperature on the trip they wished to plan.  Using a combination of a weather API and the Google maps/directions API, this was successful in fulfilling all the clients needs.  Several figures were even printed out to show map markers for the selected destinations as well as the travel map between them.  Each marker displayed the location, hotel name, and current weather and temperature at that location at the time of the data retreival.  It was not limited to U.S. only but instead was world wide.  This could be very useful in helping a person plan a trip or vacation for them or their family.  
+  
+  There was even time in the project to make use of some linear regression models for use in a kids friendly event for them to discover some benefits of coding and/or statistics.  Numerous graphs were created that showed the relationship of temperature to numerous other factors such as, humidity, cloudiness, wind speed, etc.  This was a fun part of the project and showed how APIs and statistics could be used hand in hand to achieve some insight on weather patterns.  
